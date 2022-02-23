@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Curso de Prework"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto1"
+	}
+}
